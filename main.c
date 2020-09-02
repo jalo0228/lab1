@@ -3,11 +3,11 @@
 #include <stdlib.h>
 
 int main(void) {
-  float celcius,fahrenheit;
-  char* temperature = readline("Enter a temperature in celcius: ");
-  double celcius = atof(temperature);
-  fahrenheit= (celcius* 9/5) + 32;
-  printf("%f in Celsius is equivalent to %f Fahrenheit \n", celcius,fahrenheit);
+  float celsius,fahrenheit;
+  char* temperature = readline("Enter a temperature in celsius: ");
+  celsius = atof(temperature);
+  fahrenheit= (celsius* 9/5) + 32;
+  printf("%f in Celsius is equivalent to %f Fahrenheit \n", celsius,fahrenheit);
   return 0;
 
 }
