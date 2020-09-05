@@ -1,7 +1,7 @@
-//Author:Youhyun Kim yfk5109@psu.edu
-//Collaborator : Nicole Giron nqg5259@psu.edu
-//Collaborator : Geng Niu gjn5124@psu.edu
-//Collaborator : Krish Choudhary ksc5496@psu.edu
+// Author:Youhyun Kim yfk5109@psu.edu
+// Collaborator : Nicole Giron nqg5259@psu.edu
+// Collaborator : Geng Niu gjn5124@psu.edu
+// Collaborator : Krish Choudhary ksc5496@psu.edu
 
 #include <stdio.h>
 #include <readline/readline.h>
